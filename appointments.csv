@@ -1,0 +1,4 @@
+booking_id,patient_name,phone,email,age,gender,doctor,speciality,mode,date,time,notes,created_at,status
+20968D07,shreya,8660965291,,30,Female,Dr. A. Rao,General Physician,In-clinic,2025-08-13,09:00,,2025-08-13 21:28:34,Booked
+D1F6CE24,usha,9902120405,,30,Female,Dr. A. Rao,General Physician,In-clinic,2025-08-13,09:30,,2025-08-13 23:03:59,Booked
+7B8EE787,srushti,8984903089,,30,Female,Dr. S. Mehta,Cardiologist,Video Call,2025-08-14,09:00,,2025-08-14 10:28:06,Confirmed
